@@ -12,3 +12,6 @@
     ./main
     
  ## Gameplay
+![Alt Text](images/gameplay_1.gif)
+![Alt Text](images/gameplay_2.gif)
+![Alt Text](images/gameplay_3.gif)
