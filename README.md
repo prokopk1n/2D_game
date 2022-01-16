@@ -12,6 +12,7 @@
     ./main
     
  ## Gameplay
+ Пример игрового процесса.
 ![Alt Text](images/gameplay.gif)
 ![Alt Text](images/gameplay_2.gif)
 ![Alt Text](images/gameplay_3.gif)
