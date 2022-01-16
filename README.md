@@ -12,8 +12,8 @@
     ./main
     
  ## Gameplay
- Пример игрового процесса.
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ :eyes: Пример игрового процесса.
+ ____
 ![Alt Text](images/gameplay.gif)
 ![Alt Text](images/gameplay_2.gif)
 ![Alt Text](images/gameplay_3.gif)
